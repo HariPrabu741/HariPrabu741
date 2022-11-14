@@ -3,5 +3,5 @@
 - 🔭 AI/ML Engineer @TheSmartBridge.
 - 🌱 Sky is the limit. 
 - 💯 Enjoy and learn from every second.
-- 😄 Goals: Become an expert in DS.
+- 😄 Mini Goal: Become an expert in DS.
 - ⚡ Fun - Honesty - Love - Learning
